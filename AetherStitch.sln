@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AetherStitch", "Engine\AetherStitch.csproj", "{F3CB1E27-7270-4579-97FB-E5C2610FF3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Gui\Gui.csproj", "{ABC85E37-0A60-45DE-A530-1DA98832F4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CB1E27-7270-4579-97FB-E5C2610FF3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CB1E27-7270-4579-97FB-E5C2610FF3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CB1E27-7270-4579-97FB-E5C2610FF3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CB1E27-7270-4579-97FB-E5C2610FF3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC85E37-0A60-45DE-A530-1DA98832F4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC85E37-0A60-45DE-A530-1DA98832F4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC85E37-0A60-45DE-A530-1DA98832F4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC85E37-0A60-45DE-A530-1DA98832F4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D45FE3BE-15B3-489F-8342-A25168FE7F4D}
+	EndGlobalSection
+EndGlobal
